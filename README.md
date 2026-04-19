@@ -16,7 +16,6 @@ Graduanda em **Engenharia de Software** pela Universidade Federal do Amazonas (U
 *   📚 **Leitura**
 *   🎧 **Música**
 *   🎬 **Filmes**
-*   🍳 **Culinária**
 
 ---
 
