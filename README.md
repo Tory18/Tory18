@@ -20,5 +20,5 @@ Graduanda em **Engenharia de Software** pela Universidade Federal do Amazonas (U
 ---
 
 ### 📫 Contato
-*   [**LinkedIn**]([https://linkedin.com](https://www.linkedin.com/in/vitoria-luz-edwards/))
+*   [**LinkedIn**](https://www.linkedin.com/in/vitoria-luz-edwards/)
 *   [**E-mail**](mailto:vitoria.luz.edwards@gmail.com)
