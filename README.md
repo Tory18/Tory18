@@ -23,5 +23,9 @@ Graduanda em **Engenharia de Software** pela Universidade Federal do Amazonas (U
 *   [**LinkedIn**](https://linkedin.com)
 *   [**E-mail**](mailto:vitoria.luz.edwards@gmail.com)
 
+---
+
+![Snake animation](https://github.com/Tory18/Tory18/blob/output/github-contribution-grid-snake.svg)
+
 
 
